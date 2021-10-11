@@ -1,0 +1,10 @@
+{
+  "name": "stuffy-granny-lib",
+  "version": "1.0.0",
+  "description": "Library for working with firestore(RN+R)",
+  "main": "index.js",
+  "repository": "https://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@github.com/ezhukovich/stuffy-granny-lib.git",
+  "author": "<ezhukovich1@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
