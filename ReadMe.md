@@ -27,7 +27,7 @@ import firestore from '@react-native-firebase/firestore';
 ```
 ##### Import stuffy-granny-lib
 ```javascript
-import stuffy-granny-lib from 'stuffy-granny-lib';
+import StuffyGrannyLib from 'stuffy-granny-lib';
 ```
 ##### Create instance of stuffy-granny-lib class with argument firestore and export it.
 ```javascript
