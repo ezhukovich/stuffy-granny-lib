@@ -2,7 +2,7 @@
   "name": "stuffy-granny-lib",
   "version": "1.0.4",
   "description": "Library for working with firestore(RN+R) for pet-project 'Stranger Places' App.",
-  "main": "index.js",
+  "main": "index.tsx",
   "repository": "https://github.com/ezhukovich/stuffy-granny-lib.git",
   "author": "<ezhukovich1@gmail.com>",
   "maintainers": [
