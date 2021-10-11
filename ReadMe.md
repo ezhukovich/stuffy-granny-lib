@@ -1,1 +1,1 @@
-#stuffy-granny-lib
+stuffy-granny-lib
